@@ -5,3 +5,7 @@
 <p align="center">
   <img src="https://github.com/StariyLoh/GUBAMIPROJECT/blob/master/img/pants.png">
 </p>
+## ЖЕСТКИЙ РОАДМАП
+- [X] сделать что-то
+- [ ] вот тут что-то будет
+- [ ] наверное
